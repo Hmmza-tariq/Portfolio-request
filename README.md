@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 <div align="center">
 
-  ![Project Banner](readme_assets/readme_banner.png#gh-dark-mode-only)
+  ![Project Banner](images/image.png)
 
   <h1>Three.js 3D Portfolio</h1>
   
