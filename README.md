@@ -12,7 +12,7 @@
 
    
  <h4>
-    <a href="https://hmmza-portfolio.vercel.app/">View Demo</a>
+    <a href="https://hmmza-portfolio.vercel.app/">Demo</a>
   </h4>
 </div>
 
