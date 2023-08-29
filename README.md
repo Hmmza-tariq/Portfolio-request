@@ -22,7 +22,7 @@
 
 This repository houses an well-designed and functional Developer Portfolio Website consisting Navbar, Hero, Overview, Work Experience, Technologies, Projects, Testimonials and Contact sections built with React & Three.js using TailwindCSS ⏭
 
-<!-- TechStack -->
+
 ### :space_invader: Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,threejs,blender)](https://skillicons.dev)
